@@ -1,5 +1,5 @@
 {
-  "name": "@lingui/cli",
+  "name": "@hellohakuna/lingui-cli",
   "version": "3.12.1",
   "description": "CLI for working wit message catalogs",
   "keywords": [
@@ -11,8 +11,7 @@
     "i9n",
     "translation"
   ],
-  "repository": "lingui/js-lingui",
-  "bugs": "https://github.com/lingui/js-lingui/issues",
+  "repository": "https://github.com/hellohakuna/js-lingui-cli",
   "license": "MIT",
   "author": {
     "name": "Tomáš Ehrlich",
